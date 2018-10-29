@@ -20,3 +20,22 @@ ul, li {
 }
 
 }
+
+
+
+a {
+	border-radius: 35px;
+	padding:10px;
+	background-color: antiquewhite;
+}
+a:hover {
+	background-color:#767d84;
+	color:white;
+	text-shadow: 2px 2px #343a40;
+	transition: all 1s;
+}
+#header {
+	line-height: 80px;
+	text-align:center;
+
+	}
