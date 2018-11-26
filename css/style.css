@@ -1,0 +1,24 @@
+ body{background-color: green}
+
+
+body {
+    background-color: #696969;
+	font:16px Arial;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin: 5px 5px 5px 5px;
+}
+ul, li {
+}
+#header {
+	width:95%;
+	line-height: 80px;
+	text-align:center;
+    background-color: #000000;
+    color: #ffffff;
+	border:thick double #ffffff;
+}
+
+}
+
+
